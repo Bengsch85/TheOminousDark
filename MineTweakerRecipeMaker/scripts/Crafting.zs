@@ -16,8 +16,6 @@ recipes.remove(<Natura:trapdoor.sakura> * 2);
 recipes.remove(<Botany:trowelIron>);
 recipes.remove(<Botany:trowelDiamond>);
 recipes.remove(<RestrictedPortals:endKey>);
-recipes.remove(<RestrictedPortals:endKey>);
-recipes.remove(<RestrictedPortals:netherKey>);
 recipes.remove(<RestrictedPortals:netherKey>);
 
 // ================================================================================
@@ -25,6 +23,8 @@ recipes.remove(<RestrictedPortals:netherKey>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<EnderIO:itemGliderWing:1>, [[null, <ore:ingotDarkSteel>, null], [<EnderIO:itemGliderWing>, <ore:ingotDarkSteel>, <EnderIO:itemGliderWing>]]);
+recipes.removeShaped(<EnderIO:itemGliderWing>, [[null, null, <ore:ingotDarkSteel>], [null, <ore:ingotDarkSteel>, <ore:itemLeather>], [<ore:ingotDarkSteel>, <ore:itemLeather>, <ore:itemLeather>]]);
 
 // ================================================================================
 //#MARKER ADD
@@ -36,6 +36,7 @@ recipes.addShapeless(<Thaumcraft:blockMagicalLog:1>, [<ore:quicksilver>, <ore:lo
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<rftools:regenerationEModuleItem>, [[null, <AWWayofTime:weakBloodOrb>, null], [<ore:dustRedstone>, <ore:ingotGold>, <ore:dustRedstone>], [<ore:blockIron>, <ore:dyeBlack>, <ore:blockIron>]]);
 recipes.addShaped(<Natura:trapdoor.bloodwood> * 2, [[<Natura:planks:4>, <Natura:planks:4>, <Natura:planks:4>], [<Natura:planks:4>, <Natura:planks:4>, <Natura:planks:4>], [null, <Natura:planks:4>, null]]);
 recipes.addShaped(<Natura:trapdoor.redwood> * 2, [[<Natura:planks:3>, <Natura:planks:3>, <Natura:planks:3>], [<Natura:planks:3>, <Natura:planks:3>, <Natura:planks:3>], [null, <Natura:planks:3>, null]]);
 recipes.addShaped(<Natura:trapdoor.ghostwood> * 2, [[<Natura:planks:2>, <Natura:planks:2>, <Natura:planks:2>], [<Natura:planks:2>, <Natura:planks:2>, <Natura:planks:2>], [null, <Natura:planks:2>, null]]);
