@@ -44,6 +44,6 @@ recipes.addShaped(<Natura:trapdoor.ghostwood> * 2, [[<Natura:planks:2>, <ore:pla
 recipes.addShaped(<Natura:trapdoor.sakura> * 2, [[<Natura:planks:1>, <Natura:planks:1>, <Natura:planks:1>], [<Natura:planks:1>, <Natura:planks:1>, <Natura:planks:1>], [null, <Natura:planks:1>, null]]);
 recipes.addShaped(<Botany:trowelIron>, [[null, null, <ore:ingotIron>], [null, <ore:woodStick>, null], [<ore:woodStick>, null, null]]);
 recipes.addShaped(<Botany:trowelDiamond>, [[null, null, <ore:gemDiamond>], [null, <ore:woodStick>, null], [<ore:woodStick>, null, null]]);
-recipes.addShaped(<RestrictedPortals:endKey>, [[<ore:pearlEnder>, <ore:bucketEnder>, <ore:pearlEnder>], [<ore:blockVyroxeres>, <qCraft:essence:2>, <ore:blockVyroxeres>], [<hexcraft:itemHexoriumCrystalGreen>, <hexcraft:itemHexoriumCrystalGreen>, <hexcraft:itemHexoriumCrystalGreen>]]);
+recipes.addShaped(<RestrictedPortals:endKey>, [[<ore:bucketEnder>, <ore:itemNetherStar>, <ore:bucketEnder>], [<ore:blockVyroxeres>, <ore:pearlEnderEye>, <ore:blockVyroxeres>], [<hexcraft:blockHexoriumMonolithGreen>, <ore:itemNetherStar>, <hexcraft:blockHexoriumMonolithGreen>]]);
 recipes.addShaped(<RestrictedPortals:netherKey>, [[<hexcraft:itemHexoriumCrystalBlack>, <minecraft:lava_bucket>, <hexcraft:itemHexoriumCrystalBlack>], [<ore:ingotManganese>, <ore:blockCarmot>, <ore:ingotManganese>], [<hexcraft:itemHexoriumCrystalRed>, <hexcraft:itemHexoriumCrystalRed>, <hexcraft:itemHexoriumCrystalRed>]]);
 
