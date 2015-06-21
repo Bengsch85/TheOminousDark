@@ -36,6 +36,7 @@ recipes.addShapeless(<Thaumcraft:blockMagicalLog:1>, [<ore:quicksilver>, <ore:lo
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<harvestcraft:pammapleSapling>, [[<Natura:Rare Sapling:0>]]);
 recipes.addShaped(<rftools:regenerationEModuleItem>, [[null, <AWWayofTime:weakBloodOrb>, null], [<ore:dustRedstone>, <ore:ingotGold>, <ore:dustRedstone>], [<ore:blockIron>, <ore:dyeBlack>, <ore:blockIron>]]);
 recipes.addShaped(<Natura:trapdoor.bloodwood> * 2, [[<Natura:planks:4>, <Natura:planks:4>, <Natura:planks:4>], [<Natura:planks:4>, <Natura:planks:4>, <Natura:planks:4>], [null, <Natura:planks:4>, null]]);
 recipes.addShaped(<Natura:trapdoor.redwood> * 2, [[<Natura:planks:3>, <Natura:planks:3>, <Natura:planks:3>], [<Natura:planks:3>, <Natura:planks:3>, <Natura:planks:3>], [null, <Natura:planks:3>, null]]);
