@@ -1,3 +1,16 @@
+6/20:
+
+Tweak: Hunger Overhaul: Makes HarvestCraft foods unplantable, meaning seeds are required to plant crops [vanilla: false] [default: true]
+       -    B:foodsUnplantable=true
+       +    B:foodsUnplantable=false
+Tweak: Hunger Overhaul: Minetweaked in a tooltip for minecraft:reeds.
+Tweak: RFTools: Bug with rftools modules all turning into featherfall modules when crafted.
+       Created new recipes for the different modules of the environmental controller. - Jhary
+Tweak: EnderIO: Bug Darksteel armor glider knocks everyone offline but the user
+       Minetweaked the receipes uncraftable.
+Tweak: ttcore: Bug with vanilla crops not right-click harvestable. Reset the ttcore.cfg
+Tweak: Pam's Harvestcraft: Added a recipe to make maple saplings since they are too rare.
+
 6/16:
 Added AromaCore-1.7.10-1.0.2.13
 Added AromaBackup-1.7.10-0.0.0.5
