@@ -1,0 +1,336 @@
+6/16:
+Added AromaCore-1.7.10-1.0.2.13
+Added AromaBackup-1.7.10-0.0.0.5
+Added cookingbook-mc1.7.10-1.0.28
+Added HungerOverhaul-1.7.10-1.0.0
+Added LightTweaks-0.20
+Added liquidDirt-1.3
+Updated appliedenergistics2-rv2-stable-8
+Updated binnie-mods-2.0-pre11
+Updated Chisel2_DEV-2.4.0-127
+Updated logisticspipes-0.9-1.132
+Updated malisisdoors-1.7.10-1.8.2
+Updated OpenComputers-MC1.7.10-1.5.13.27
+Updated StorageDrawers-1.7.10-1.5.6
+Updated tinker_io-1.7.10-beta1.2.0
+Tweak: SpecialMobs: Made special mobs to spawn more commonly (Never suggest the pack is easy!)
+Tweak: Forge Multipart: Added ztones, forgotten vanilla, some botania, some enderio, some mekanism blocks able to be cut down.
+Tweak: AromaBackup: set it to save the world every 6 hours and keeping 4 backups at all times.
+
+6/10: 
+Tweak: Server: Scheduled restart for server daily at 1:00 AM.
+Tweak: Deadly World: Removed silverfish spawners (not in old chunks)
+Tweak: RestrictedPortals: Added recipes for end key and nether key.
+Tweak: Chisel: Fixed recipe conflict for diamond and iron chisel.
+
+
+6/7:
+Added binnie-mods-2.0-pre8
+Updated forestry_1.7.10-3.5.7.16
+Added ChiselTones-1.7.10-1.0-1
+Added Ztones-1.7.10-2.2.1
+Added BiblioCraft[v1.10.4]
+Added EnhancedPortals_1.7.10-universal-3.0.10
+Added AOBD-2.6.3
+Added AOBDBB-1.0.3
+Added INpureCore-[1.7.10]1.0.0B9-62
+Added bdlib-1.8.2.90
+Added generators-0.9.14.78
+Added qcraft-1.2
+Added statues-1.7.10-2.1.4
+Added AsieLib-1.7.10-0.4.2
+Added MineFactoryReloaded-[1.7.10]2.8.0-104
+Added HexWool-1.7.10-0.4.2.16
+Added SimplyJetpacks-MC1.7.10-1.5.1
+Added natura-1.7.10-2.2.0.1
+Added ironchest-1.7.10-6.0.62.742
+Added MoarSigns-1.7.10-1.1.4
+Added Automagy-1.7.10-0.24.2
+Added thaumicenergistics-0.8.10.5
+Added ThaumicTinkerer-2.5-1.7.10-164
+Added BlastBlock 1.7.10_2
+Added MineTweaker3-1.7.10-3.0.9C
+Added ModTweaker 2-0.8.2
+Added TravellersGear-1.7.10-1.16.5
+Added Draconic-Evolution-1.7.10-1.0.1c
+Added Twilightforest-1.7.10-2.3.6
+Added HardcoreEnderExpansion MC-1.7.10 v1.8.1
+Added Ruins-1.7.10
+Added EpicSiegeMod-10.0.111
+Added runicdungeons-1.1.4
+Added SpecialMobs-1.7.10-3.1.1
+Added DeadlyWorld-1.7.10-1.0.2
+Added dungeonpack-1.7.10-1.0
+Added Deathcounter-4.0.0 (SERVER SIDE)
+Added colorchat-1.7.10-0.1.0-1.0.6.44 (SERVER SIDE)
+Added fognerf-1.7.10-o.4 (CLIENT SIDE)
+Added iChunUtil-4.2.2 (CLIENT SIDE)
+Added InGameInfoXML-2.8.1.80 (CLIENT SIDE)
+Added journeymap-1.7.10-5.1.0rc3 (CLIENT SIDE)
+Added LunatriusCore-1.7.10-1.1.2.21 (CLIENT SIDE)
+Added MobDismemberment-4.0.0 (CLIENT SIDE)
+Added neiaddons-1.12.9.32-mc-1.7.10
+Added NEIIntegration-MC1.7.10-1.0.9
+Added NEIPlugins-MC1.7.10-1.1.0.11
+Added TiCTooltips-mc1.7.10-1.2.4 (CLIENT SIDE)
+Added Waila-1.5.10_1.7.10 (CLIENT SIDE)
+Added WAILAPlugins-MC1.7.10-0.0.1-14 (CLIENT SIDE)
+Added Wawla-1.2.1_1.7.10 (CLIENT SIDE)
+Added AppleCore-mc1.7.10-1.1.0
+Added CustomMainMenu-MC1.7.10-1.5
+Added ResourceLoader-1.0
+Tweak: dungeonpack: Increased the rarity of all dungeons.
+Tweak: dungeonpack: disabled pq2 temples, floating villages, obsidian towers, and huge ships.
+Tweak: DeadlyWorld: Bosses are no longer immune to fire.
+Tweak: DeadlyWorld: Knockback resistance on mobs lowered from 85% to 50%.
+Tweak: DeadlyWorld: Health Regen on bosses lowered to 2.5 hearts a sec.
+Tweak: DeadlyWorld: Bruutal mobs are no longer immune to fire.
+Tweak: DeadlyWorld: Health Regen on brutal mobs lowered to 2.5 hearts a sec.
+Tweak: AOBDBB: Bushes now hurt.
+Tweak: SpecialMobs: Increased the chance that cave spiders will spit (from 10% to 25%).
+Tweak: SpecialMobs: Turned off chance of hostile pigmen.
+Tweak: SpecialMobs: Turned off chance of hostile silverfish.
+Tweak: MFR: Chunkloader will now only work if player is online.
+Tweak: MFR: disabled enchanted sacred rubber tree saplings
+Tweak: MFR: Made sludge lakes quite rare (32 to 64).
+Tweak: MFR: Made sewage lakes quite rare (32 to 64).
+Tweak: MFR: Disabled guns from being crafted.
+Tweak: MFR: Conveyors will not capture thaumcraft golems.
+Tweak: Natura: Made Redwood trees alot more rare (from 150 to 250).
+Tweak: Ztones: Disabled the Terrain Eater, diamond Zane, Mini Charcoal/Coal, MSG Pill, Splat            Axe, Totem Tool.
+Tweak: Twilightforest: Disabled the twilight forest (for now).
+Tweak: Twilightforest: made the canopy coverage a bit more sparse (1.0 from 1.7)
+Tweak: Ruins: Lowered the chances a ruin will spawn in a given chunk (from 10% to 5%).
+Tweak: ESM: Ghats spawn in the overworld now.
+Tweak: ESM: Fire distance of ghasts lowered from 64 to 32.
+Tweak: ESM: Mob awareness dropped from 64 blocks to 32.
+Tweak: ESM: Hardcore day cycle turned off (mobs will not ignore light levels when spawning every so many days).
+Tweak: ESM: Mobs will no longer target villagers.
+Tweak: ESM: x3 compressed cobble and up are now digproof.
+Tweak: ESM: Carpenterblock torches are targetable by mobs.
+
+6/6:
+Added Chisel2_DEV-2.4.0.124
+Added rftools-3.0.0beta1
+Added TMechworks-1.7.10-0.2.14.100
+Added tinker_io-1.7.10-beta1.1.3
+Added Pam’s Clay Spawn 1.7.2a
+Added Pam’s Get All The Seeds 1.7.2a
+Added Pam’s WeeeFlowers 1.7.2b
+Added Extra Achievements 2.1.1
+Added LatCoreMC-1.7.10-1.6.9.1
+Added Silicio-1.7.10-1.6.9.1
+Added OpenBlocks-1.7.10-1.4.3
+Added OpenComputers-MC1.7.10-1.5.12.26
+Added OpenModsLib-1.7.10-0.7.3
+Added OpenModularTurrets-1.7.10-1.3.8-35
+Added StevesCarts2.0.0.b18
+Added StevesFactoryManagerA93
+Added RestrictedPortals-1.7.10-0.3
+Added extrautilities-1.2.5
+Added Carpenter’s Blocks v3.3.6
+Added ExtraTiC-1.7.10-1.4.5
+Added Jabba-1.2.1a_1.7.10
+Tweak: RestrictedPortals: Requires the key to be crafted to get access.
+Tweak: OpenBlocks: turned off skeleton spawning from player graves.
+Tweak: OpenBlocks: Removed first time book.
+Tweak: RotaryCraft: Removed first time book.
+Tweak: RotaryCraft: Lowered machine volume to 0.5.
+Tweak: OpenComputers: Removed first time book.
+Tweak: extrautilities: Disabled the peaceful table.
+
+6/5:
+Added appliedenergistics2-rv2-stable-5
+Added BigReactors-0.4.3A
+Added BloodMagic-1.7.10-1.3.3-4
+Added Botania r1.6-191
+Added buildcraft-6.4.16
+Added butterflymania-1.7.10-1.3.1
+Added CodeChickenCore-1.7.10-1.0.6.44
+Added CoFHCore-[1.7.10]3.0.2-276
+Added D3Commands-1.7.10-1.1.0.25
+Added D3Core-1.7.10-1.1.0.22
+Added denseores-1.6.2
+Added DragonAPI1.7.10 V6f
+Added EnderIO-1.7.10-2.3.0.378_beta
+Added fastcraft 1.21
+Added forestry_1.7.10-3.5.6.15
+Added HardcoreDarkness-1.5
+Added HEXCraft-1.7.10-0.5.0
+Added IguanaTinkerTweaks-1.7.10-2.1.5
+Added logisticspipes-0.9.0.117
+Added malisiscore-1.7.10-0.12
+Added malisisdoors-1.7.10-1.8.1
+Added Mantle-1.7.10-0.3.2
+Added Mekanism-1.7.10-8.1.4.232
+Added MekanismGenerators-1.7.10-8.1.4.232
+Added MekanismTools-1.7.10-8.1.4.232
+Added Metallurgy-1.7.10-4.0.8.97
+Added MetallurgyCore-1.7.10-4.0.4.18
+Added NotEnoughItems-1.7.10-1.0.4.107
+Added Pam's HarvestCraft 1.7.10i
+Added ProjectRed-1.7.10-4.6.1.80-Base
+Added ProjectRed-1.7.10-4.6.1.80-Compat
+Added ProjectRed-1.7.10-4.6.1.80-Integration
+Added ProjectRed-1.7.10-4.6.1.80-Lighting
+Added ProjectRed-1.7.10-4.6.1.80-Mechanical_beta
+Added ProjectRed-1.7.10-4.6.1.80-World
+Added RotaryCraft 1.7.10 V6f
+Added TConstruct-1.7.10-1.8.5
+Added Thaumcraft-1.7.10-4.2.3.5
+Added ThermalDynamics-[1.7.10]1.0.0-122
+Added ThermalExpansion-[1.7.10]4.0.1-182
+Added ThermalFoundation-[1.7.10]1.0.0-84
+Added witchery-1.7.10-0.24.1
+Added Baubles-1.7.10-1.0.1.10
+Added CodeChickenLib-1.7.10-1.1.3.136
+Added ForgeMultipart-1.7.10-1.1.2.334
+Added MrTJPCore-1.7.10-1.0.7.14
+Added FastLeafDeacy-1.7.10-1.2 (SERVER SIDE)
+Added Lagfix-2.0.1 (SERVER SIDE)
+Added HelpFixer-1.0.7 (SERVER SIDE)
+Tweak: Turned off all update notifications in all mods.
+Tweak: Cofh: Flattened bedrock with a depth layer of 5.
+Tweak: EnderIO: turned down the sound of machines from 1.0 to 0.5.
+Tweak: forestry: Turned off oregen for copper and tin.
+Tweak: Iguana: Turned off the random autosmelt enchant.
+Tweak: Iguana: Added A random enchant addition at level 10
+Tweak: Iguana: Added a modifier bonus at level 10.
+Tweak: Iguana: Max level is now 50 on tools.
+Tweak: Iguana: Vanilla bows are now useless.
+Tweak: Iguana: Removed Stone torches.
+Tweak: Mekanism: Dropped machine volume to 0.5
+Tweak: Mekanism: Turned off oregen for copper and tin.
+Tweak: Mekanism: Switched energy type display from joules to RF.
+Tweak: Metallurgy: Turned off oregen for copper and tin.
+Tweak: ProjectRed: Set the volcano resistance to 32 (makes them more rare).
+Tweak: ProjectRed: Set the marble caves resistance to 10 (makes the more rare).
+Tweak: Thaumcraft: disabled magical forests.
+Tweak: Thaumcraft: Disabled trees.
+Tweak: Thaumcraft: Increased the node rarity to 40.
+Tweak: Thaumcraft: Increased the special node rarity to 20.
+Tweak: Thaumcraft: Removed the spread of taint in the world.
+Tweak: Tconstruct: Removed the ability to craft endstone.
+
+Modpack update 1.3:
+
+  Added:
+   01] Modtweaker 2-0.8.0
+   02] StorageDrawers-Forestry-1.7.10-1.0.0
+
+ Updated: 
+   01] ae2stuff-0.3.1.33
+   02] AOBD-2.6.3
+   03] AOBDBB-1.0.3
+   04] appliedenergistics2-rv2-stable-4
+   05] Automagy-1.7.10-0.24.1
+   06] bdlib-1.8.1.87-mc1.7.10
+   07] Bloodmagic-1.7.10-1.3.3-2
+   08] Botania r1.6-191
+   09] Chisel2_DEV-2.4.0.122
+   10] DecoCraft-2.0.2_1.7.10
+   11] EpicSiegeMod-10.0.112
+   12] Guide-API-1.7.10-1.0.1-18
+   13] HardcoreEnderExpansion MC-1.7.10 v1.8.1
+   14] HexCraft-1.7.10 0.3.0
+   15] logisticspipes-0.9.0.117
+   16] Mekanism-1.7.10-8.1.3.231
+   17] MrTJPCore-1.0.8.15
+   18] NEIAddons-1.12.9.32-mc1.7.10
+   19] rftools-2.93
+   20] StorageDrawers-1.7.10-1.5.3
+   21] ThermalRecycling-1.7.10-0.3.6.3
+   22] tinker_io-1.7.10-beta1.1.3
+   23] TravellersGear-1.7.10-1.16.5
+
+ Removed:
+   01] adventurebackpacks-1.7.10-0.8b
+   02] DigitalCXP-1.7.10-0.1.5
+   03] Endertech-1.7.10-0.3.2.388
+   04] GardenStuff-1.7.10-1.6.2
+   05] Gravestone-2.12.3
+   06] LostBooks-1.7.10-1.2.2
+   07] magicbees-1.7.10-2.3.1
+   08] primitivemobs-1.0c-1.7.10
+   09] Sanguimancy-1.7.10-1.1.9-30
+   10] zz-backpacks1.7.10 3.0.3
+
+  Changes:
+    01] Removed all clientside mods (minus NEI and fastcraft) to it’s own zip file.
+          https://drive.google.com/open?id=0B5dy2uMEgEljdUxNb3BVMmdRTzA&authuser=0
+    02] Disabled tin and copper ore gen in all mods except tinker’s and thermal expansion.
+    03] Fixed the recipe conflict with curtains.
+    04] Made dimension anchors more expensive.  
+
+-----------------------------------------------------------------------------------------------------------------
+
+Modpack update 1.2:
+
+Mod Changes:
+01] AppliedEnergistics2 updated to rv2-stable-3
+02] BlastBlock 1.7.10_2 added
+03] Buildcraft updated to 6.4.16
+04] EpicSiegeMod updated to 10.0.110
+05] ExtraTiC updated to 1.4.5
+06] ExtraUtilities updated to 1.2.5
+07] HEXCraft1.7.10-0.1.0 Added
+08] logisticspipes updated to 0.9.0.116
+09] MalisisCore updated to 1.7.10-0.12
+10] MalisisDoors updated to 1.7.10-1.8.1
+11] MrTJPCore updated to 1.0.7.14
+12] OpenComputers updated to MC1.7.10-1.5.11.26
+13] ProjectRed updated to 1.7.10-4.6.1.80
+14] RFTools updated to 2.91
+15] Sanguimancy updated to 1.7.10.1.1.9-30
+16] SimplyJetpacks updated to MC1.7.10-1.5.1
+17] StorageDrawers updated to 1.7.10-1.5.1
+18] StorageDrawers-Natura updated to 1.7.10-1.0.1
+19] ThaumicEnergistics updated to 0.8.10.5
+20] ThermalRecycling updated to 1.7.10-0.3.3.5
+21] Tinker I/O updated to 1.7.10-beta1.1.2-hotfix
+22] TravellersGear updated to 1.7.10-1.16.4
+23] Sanguimancy.cfg repopulated for update
+
+Tweaks:
+01] Epic Siege Mod:
+ # The interval in which 'hard' days will occur where mob spawning is increased and lighting is ignored (0 = off, default = 8/full moon) [range: 0 ~ 2147483647, default: 8]
+    I:"Hardcore Day Cycle"=0 (turned it off)
+
+02] Epic Siege Mod:
+Creeper {
+    B:Breaching=false (turned this off. Creepers will no longer seek and destroy )
+    B:Napalm=true
+    B:Powered=true
+    I:"Powered Rarity"=14
+}
+
+03] Epic Siege Mod:
+I:"Awareness Radius"=24 (Changed this from 48 block detection radius)
+
+04] SpecialMobs:
+I:drowning=1 (turned down the spawning of drowning creepers)
+
+05] SpecialMobs:
+I:gatling=3 (Turned down the spawning of Gatling Skeletons)
+I:thief=2 (Turned Down the spawning of Thief Skeletons)
+
+06] SpecialMobs:
+I:ghost=3 (Turned down the spawning of Ghost Spiders)
+
+07] Deadly Worlds:
+I:silverfish=0 (Turned off Silverfish Dungeon Spawners)
+I:silverfish_size=0 (Turned off natural Silverfish Spawning)
+D:silverfish_count=0.0 (Turned off natural Silverfish Spawning)
+D:silverfish_nest=0.0 (Turned off silverfish nests)
+
+08] Deadly Worlds:
+ # Regeneration potion amplifier. Yes, it works on undead. (0 heals 1 health every 2.5 sec, each rank halves the time between heals. -1 disables the effect.)
+    I:regeneration=0 (Lowered this from 1 to 0)
+
+09] Random Things:
+ # The chance of a bloodmoon happening (0=Never;1=Every night;0.05=5% of all nights)
+    D:BloodMoonChance=0 (Turned off Bloodmoons. Hard enough out there as it is)
+
+10] PrimitiveMobs:
+I:"Lily Lurker Spawn Frequency. Spawns as WaterCreature (In swamps in water)"=10 
+(Changed from 70 to lower lag)
