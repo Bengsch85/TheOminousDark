@@ -1,0 +1,78 @@
+# Cursed Village Watchman Hut
+# MC 1.7.10; 8 Nov 2014; updated 2 Apr 2015
+# Created by Ruins mod version 14.2 Ingame Parser
+# authoring Player: Kujaku10
+# Special Instructions: Place in /templateparser folder.
+# Last Updated: 27 Apr 2015
+
+weight=1
+embed_into_distance=1
+acceptable_target_blocks=
+
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,cloud,mushroom,torch,oak_stairs,planks,fence,cobblestone_wall,cobblestone,mossy_cobblestone,stone_stairs,spruce_stairs,birch_stairs,redstone_torch,Natura:Cloud
+
+dimensions=6,5,5
+allowable_overhang=0
+max_leveling=10
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:cobblestone,minecraft:gravel,minecraft:cobblestone,minecraft:mossy_cobblestone,minecraft:monster_egg-1
+rule2=0,100,minecraft:planks-0
+rule3=0,90,minecraft:ladder-5
+rule4=0,100,minecraft:web-0
+rule5=0,50,minecraft:glass_pane-0
+rule6=0,100,minecraft:log-0
+rule7=0,100,minecraft:fence-0
+rule8=0,100,CommandBlock:RUINSTRIGGER /summon Skeleton ~0 ~0 ~0 {Equipment:[{Count:1,id:261,tag:{display:{Name:Watchman Bow},ench:[{id:50,lvl:1},{id:48,lvl:5}]}},{Count:1,id:305,tag:{display:{Name:Rusty Boots}}},{Count:1,id:304,tag:{display:{Name:Rusty Leggings}}},{Count:1,id:303,tag:{display:{Name:Rusty Coat}}},{Count:1,id:302,tag:{display:{Name:Rusty Coif}}}],CustomName:Skeletal Watchman,Attributes:[{Name:generic.maxHealth,Base:50},{Name:generic.followRange,Base:30}],DropChances:[0.5F,0.2F,0.2F,0.2F,0.2F],PersistenceRequired:1}:@
+
+layer
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+endlayer
+
+layer
+1,2,2,2,1
+2,0,0,3,2
+2,0,0,0,2
+2,4,0,0,2
+1,2,0,2,1
+endlayer
+
+layer
+1,2,5,2,1
+2,0,0,3,2
+5,0,0,0,5
+2,0,0,0,2
+1,2,0,2,1
+endlayer
+
+layer
+1,2,2,2,1
+2,4,0,3,2
+2,0,0,0,2
+2,4,0,4,2
+1,2,2,2,1
+endlayer
+
+layer
+6,6,6,6,6
+6,2,2,3,6
+6,2,2,2,6
+6,2,2,2,6
+6,6,6,6,6
+endlayer
+
+layer
+7,7,7,7,7
+7,0,0,0,7
+7,0,8,0,7
+7,0,8,0,7
+7,7,7,7,7
+endlayer
+

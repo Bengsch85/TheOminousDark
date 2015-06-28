@@ -1,0 +1,84 @@
+# Will o' Wisp
+# Created by Ruins mod version 14.6 Ingame Parser
+# authoring Player: Jordan_Greywolf
+# MC 1.7.10; 4 Jan 2015
+# Last Updated: 30 Apr 2015
+
+biomesToSpawnIn=bog,marsh,swamp,swampland,swampland m,fen,fire swamp,swamplands,green swampland,green swamplands,dead swamp,dead swampland,mire,quagmire,lush swamp,ominous woods,thick ominous woods,sludgepit,tainted land,tainted lands,eerie,bayou,moor,silkglades
+
+weight=1
+embed_into_distance=1
+acceptable_target_blocks=
+
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,cloud,Natura:Cloud
+
+dimensions=7,5,5
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:grass-0
+rule2=0,100,minecraft:log-15
+rule3=1,75,minecraft:log-15
+rule4=0,100,CommandBlock:RUINSTRIGGER /summon Fireball ~0 ~1 ~0 {direction:[0.0,0.0,0.0],ExplosionPower:5,PersistenceRequired:1,Riding:{id:Bat,PersistenceRequired:1,ActiveEffects:[{Id:14,Amplifier:0,Duration:999999,Ambient:1}]}}:@
+rule5=0,100,minecraft:tallgrass-1,minecraft:tallgrass-0,minecraft:tallgrass-2,minecraft:grass,minecraft:air
+
+layer
+1,2,2,2,1
+2,1,1,1,2
+2,1,1,1,2
+2,1,1,1,2
+1,2,2,2,1
+endlayer
+
+layer
+5,2,2,2,5
+2,5,5,5,2
+2,5,5,5,2
+2,5,5,5,2
+5,2,2,2,5
+endlayer
+
+layer
+0,3,2,2,0
+3,2,0,2,2
+2,2,4,0,3
+3,2,0,2,2
+0,3,3,3,0
+endlayer
+
+layer
+0,0,3,0,0
+0,3,0,3,0
+3,2,0,3,3
+0,2,0,3,0
+0,0,3,0,0
+endlayer
+
+layer
+0,0,3,0,0
+0,3,0,3,0
+3,2,0,3,3
+0,2,0,3,0
+0,0,3,0,0
+endlayer
+
+layer
+0,0,3,0,0
+0,3,0,3,0
+3,3,0,0,3
+0,3,0,3,0
+0,0,3,0,0
+endlayer
+
+layer
+0,0,0,0,0
+0,0,0,0,0
+0,3,0,0,0
+0,3,0,0,0
+0,0,0,0,0
+endlayer
+

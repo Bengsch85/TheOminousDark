@@ -1,0 +1,27 @@
+# Creeper Boat
+# MC 1.7.10; 26 Nov 2014
+# Created by Ruins mod version 14.4 Ingame Parser
+# authoring Player: Jordan_Greywolf
+
+biomesToSpawnIn=ocean,deep ocean,oceanic abyss,coral reef,kelp forest,forested island,beach,gravel beach,stone beach,mushroomislandshore
+
+uniqueMinDistance=500
+
+weight=1
+embed_into_distance=2
+acceptable_target_blocks=water
+unacceptable_target_blocks=
+dimensions=1,1,1
+allowable_overhang=9999
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /summon Creeper ~0 ~2 ~0 {Riding:{id:"Boat"},PersistenceRequired:1}:@
+
+# -------------------------------------------
+
+layer
+1
+endlayer

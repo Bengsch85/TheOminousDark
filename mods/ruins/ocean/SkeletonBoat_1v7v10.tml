@@ -1,0 +1,26 @@
+# Skeleton Boat
+# MC 1.7.10; 26 Nov 2014
+# Created by Ruins mod version 14.4 Ingame Parser
+# authoring Player: Jordan_Greywolf
+# Last Updated: 30 Apr 2015
+
+biomesToSpawnIn=ocean,deep ocean,oceanic abyss,coral reef,kelp forest,forested island,beach,gravel beach,stone beach,mushroomislandshore,forested island
+
+weight=1
+embed_into_distance=2
+acceptable_target_blocks=water
+unacceptable_target_blocks=
+dimensions=1,1,1
+allowable_overhang=9999
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /summon Skeleton ~0 ~2 ~0 {Equipment:[{Count:1,id:261},{Count:1,id:301,tag:{display:{color:0}}},{Count:1,id:300},{Count:1,id:299,tag:{display:{color:14540253}}},{Count:1,id:298,tag:{display:{Name:Pirate Cap,color:9843760}}}],Riding:{id:"Boat"},PersistenceRequired:1}:@
+
+# -------------------------------------------
+
+layer
+1
+endlayer

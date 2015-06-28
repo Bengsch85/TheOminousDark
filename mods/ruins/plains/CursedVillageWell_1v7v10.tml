@@ -1,0 +1,165 @@
+# Cursed Village Well
+# MC 1.7.10; 8 Nov 2014
+# Created by Ruins mod version 14.2 Ingame Parser
+# authoring Player: Jordan_Greywolf
+# Special Instructions: Put TP_CursedVillage* templates in
+# /templateparser folder.
+# Last Updated: 27 Apr 2015
+
+biomesToSpawnIn=birch forest,dead forest,extreme hills edge,fen,field,forest,foresthills,green swampland,lavender fields,magical forest,meadow,ominous woods,pasture,plains,prairie,roofed forest,savanna,seasonal forest,silkglades,swamp,swampland,sunflower plains,taiga,taigahills,tainted land,wonderous woods,wondrous woods,woodland,woodlands
+
+uniqueMinDistance=1000
+
+weight=1
+embed_into_distance=12
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,cloud,mushroom,Natura:Cloud
+dimensions=17,4,4
+allowable_overhang=0
+max_leveling=6
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:cobblestone,minecraft:mossy_cobblestone
+rule2=0,100,minecraft:water-0
+rule3=0,100,minecraft:fence-0
+rule4=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-24 _ ~-15:@,CommandBlock:RUINSTRIGGER /testruin TP_PigPen ~-24 _ ~-15:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWatchmanHut ~-24 _ ~-15:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-24 _ ~-15:@
+rule5=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-16 _ ~0 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-16 _ ~0 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~-16 _ ~0 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-16 _ ~0 1:@
+rule6=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWatchmanHut ~-5 _ ~8:@
+rule7=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageChurch ~10 _ ~6 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageChurch ~48 _ ~24 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageChurch ~-46 _ ~-36 2:@
+rule8=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageForge ~8 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageForge ~48 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageForge ~-48 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageForge ~8 _ ~48 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageForge ~8 _ ~-48 2:@
+rule9=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~24 _ ~-24:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~24 _ ~-24:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~24 _ ~-24:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWatchmanHut ~24 _ ~-24:@
+rule10=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~-26 _ ~28:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-26 _ ~28:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-26 _ ~28:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePigPen ~-26 _ ~28:@
+rule11=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-18 _ ~52 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-18 _ ~52 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-18 _ ~52 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePigPen ~-18 _ ~52 3:@
+rule12=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePigPen ~-20 _ ~14 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-20 _ ~14 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-20 _ ~14 3:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-20 _ ~14 3:@
+rule13=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~16 _ ~-6 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~16 _ ~-6 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~16 _ ~-6 1:@
+rule14=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-32 _ ~0:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-32 _ ~0:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-32 _ ~0:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~-32 _ ~0:@
+rule15=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~24 _ ~10 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~24 _ ~10 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~24 _ ~10 1:@
+rule16=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLibrary ~-7 _ ~-8:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLibrary ~36 _ ~-8:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLibrary ~-7 _ ~-46:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLibrary ~-52 _ ~-8:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLibrary ~-7 _ ~56:@
+rule17=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-10 _ ~28:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-10 _ ~28:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-10 _ ~28:@
+rule18=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~-16 _ ~-11 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~-16 _ ~-11 1:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~-16 _ ~-11 1:@
+rule19=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~8 _ ~21 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageCobbleHut ~8 _ ~21 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageWoodenHut ~8 _ ~21 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePigPen ~8 _ ~21 2:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillagePlot ~8 _ ~21 2:@
+rule20=0,100,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~-48 _ ~-48:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~48 _ ~48:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~-48 _ ~48:@,CommandBlock:RUINSTRIGGER /testruin TP_CursedVillageLargeHouse ~48 _ ~-48:@
+rule21=0,100,CommandBlock:RUINSTRIGGER /gamerule commandBlockOutput false:@
+
+layer
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,2,2,1
+1,2,2,1
+1,1,1,1
+endlayer
+
+layer
+1,1,1,1
+1,0,0,1
+1,0,0,1
+1,1,1,1
+endlayer
+
+layer
+3,0,0,3
+0,0,0,0
+0,0,0,0
+3,0,0,3
+endlayer
+
+layer
+3,0,0,3
+0,0,21,0
+0,0,20,0
+3,0,0,3
+endlayer
+
+layer
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+endlayer
+
+layer
+7,6,5,4
+11,10,9,8
+15,14,13,12
+19,18,17,16
+endlayer
+

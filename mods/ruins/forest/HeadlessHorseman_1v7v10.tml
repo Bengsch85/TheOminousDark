@@ -1,0 +1,71 @@
+# Headless Horseman
+# MC 1.7.10; 27 Oct 2014
+# Happy Halloween!
+# Created by Ruins mod version 13.8 Ingame Parser
+# authoring Player: Jordan_Greywolf
+
+# Last Updated: 30 Apr 2015
+
+biomesToSpawnIn=birch forest,dark forest,fen,forest,magical forest,ominous woods,wonderous woods,woodland,woodlands,thick ominous woods,dead forest,dead swamp,eerie,eldritch,tainted land,seasonal woods,wasteland,dungeon,meadow forest,taiga
+
+uniqueMinDistance=500
+
+weight=1
+embed_into_distance=1
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,cloud,Natura:Cloud
+dimensions=5,3,4
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:grass-0
+rule2=0,100,minecraft:dirt-0
+rule3=0,100,minecraft:tallgrass-1
+rule4=0,100,minecraft:double_plant-2
+rule5=0,100,minecraft:vine-1
+rule6=0,100,minecraft:stone-0
+rule7=0,100,minecraft:stone_slab-0
+rule8=0,100,minecraft:vine-8
+rule9=0,100,minecraft:double_plant-9
+rule10=0,100,minecraft:monster_egg-5
+rule11=0,100,minecraft:vine-4
+rule12=0,100,CommandBlock:RUINSTRIGGER /summon Skeleton ~0 ~2 ~0 {AbsorptionAmount:5,Equipment:[{id:261,tag:{display:{Name:Cursed Bow},ench:[{id:50,lvl:1},{id:48,lvl:8}]}},{id:301,tag:{display:{color:0}}},{id:300,tag:{display:{color:0}}},{id:299,tag:{display:{color:0}}},{id:91,tag:{display:{Name:Pumpkin Head},ench:[{id:5,lvl:10},{id:0,lvl:5}]}}],CustomName:"Horseman",Riding:{id:"EntityHorse",Type:4,Tame:1,AbsorptionAmount:5, Attributes:[{Name:generic.maxHealth,Base:100},{Name:horse.jumpStrength,Base:1.5},{Name:generic.movementSpeed,Base:0.4}],CustomName:"Deathsteed"},DropChances:[0.2F,0.2F,0.2F,0.2F,1.0F],PersistenceRequired:1}:@
+rule13=0,100,minecraft:double_plant-8
+rule14=0,100,minecraft:cobblestone_wall-0
+rule15=2,100,WallSign:~~*~~:R. I. P.:null:~~*~~-3
+rule16=0,100,CommandBlock:RUINSTRIGGER /summon Bat ~0 ~5 ~0 {PersistenceRequired:1}:@
+
+layer
+1,1,1,1
+12,16,2,1
+1,1,1,1
+endlayer
+
+layer
+4,3,3,3
+7,7,6,5
+3,3,4,3
+endlayer
+
+layer
+9,0,8,0
+0,11,10,5
+0,0,13,0
+endlayer
+
+layer
+0,0,14,0
+0,15,14,0
+0,0,14,0
+endlayer
+
+layer
+0,0,0,0
+0,0,14,0
+0,0,0,0
+endlayer
+
