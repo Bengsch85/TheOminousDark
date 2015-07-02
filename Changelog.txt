@@ -1,3 +1,111 @@
+6/21 - 7/2:
+Updated AOBDBB-1.0.4
+Updated appliedenergistics2-rv2-stable-9
+Updated Automagy-1.7.10-0.25
+Updated bdlib-1.8.2.92-mc1.7.10
+Updated binnie-mods-2.0-pre12
+Updated Botania r1.6-197
+Updated buildcraft-7.0.13
+Updated Chisel2-2.4.0.38
+Added cookingbook-mc1.7.10-1.0.39
+Added EnderCore-1.7.10-0.0.1.10
+Updated EnhancedPortals_1.7.10-universal-3.0.12
+Updated EpicSiegeMod-10.0.116
+Added Fairylights-0.6-1.7.10
+Updated fastcraft-1.22-ctest10
+Updated Forestry_1.7.10-3.6.2.19
+Added ForgeRelocation-0.0.13
+Added ForgeRelocationFMP-1.7.10-0.0.1.2
+Updated HardcoreEnderExpansion v1.8.2
+Updated HexCraft-1.7.10-0.5.1
+Added InfernalMobs-1.7.10
+Updated JourneyMap-1.7.10-5.1.0rc5
+Updated LightTweaks-0.21
+Removed LiquidDirt-1.3
+Updated Logisticspipes-0.9.1.15
+Updated MalisisCore-1.7.10-0.12.4
+Updated MalisisDoors-1.7.10-1.9.1
+Updated Mekanism01.7.10-8.1.5.246
+Updated ModTweaker-2-0.8.3
+Updated MrTJPCore-1.1.0.26
+Updated NEIAddons-1.12.10.33
+Updated NEIIntegration-MC1.7.10-1.0.10
+Updated OpenComputers-MC1.7.10-1.5.13.28
+Updated OpenModularTurrets-1.7.10-2.0.1-137
+Updated ProjectRed-1.7.10-4.7.0pre4.88
+Added ProjectRed-1.7.10-4.7.0pre4.88-Fabrication
+Added Quadrum-1.7.10-1.2.0.B13
+Updated RestrictedPortals-1.7.10-0.5
+Updated RFTools-3.11
+Updated RunicDungeons-1.1.5
+Updated StorageDrawers-1.7.10-1.5.9
+Added ThaumcraftNEIPlugin-1.7.10-1.7a
+Added TheErebus-0.2b
+Updated Tinker_IO-1.7.10-beta1.2.1
+Removed ttcore-MC1.7.10-0.1.1-78
+Updated WAILAPlugins-MC1.7.10-0.1.0-16
+Updated Wawla-1.3.1-1.7.10
+Added WitchingGadgets-1.7.10-1.1.9
+Tweak: CustomMainMenu: Redid the layout.
+Tweak: CustomMainMenu: Added background music by Thorinair.
+Tweak: Twilight Forest: Removed the Uncrafting Table.
+Tweak: Tinker's Construct: Removed the effectiveness of vanilla tools.
+Tweak: Tinker's Construct: Necrotic modifier only heals on hostile mobs.
+Tweak: StorageDrawers: removed integration with RefinedRelocation (not in pack).
+Tweak: SpecialMobs: Various tweaks to make the world more hostile. See
+ https://github.com/Bengsch85/TheOminousDark/commit/a68bff3119e85c9a6aaec64ca3b360d9338ab060 to see the exact changes made.
+Tweak: RestrictedPortals: Twilight Forest key and Erebus Key is in using custom items. Erebus is locked and key not craftable.
+Tweak: OpenModularTurrets: Increased RF usage per turret.
+Tweak: Mekanism: Increased RF usage for machines.
+Tweak: Mekanism: Disabled the spawner.
+Tweak: Mekanism: Obsidian, Glowstone, and Osmium armor and tools are no longer craftable.
+Tweak: Mekanism: Disabled all filled tanks from showing in NEI (Reduces lag).
+Tweak: ExtraUtilities: Enderlilies are no longer in the game.
+Tweak: ExtraTiC: Enabled the Erebus integration.
+Tweak: Dungeonpack: Made all dungeons more rare in new chunks.
+Tweak: DeadlyWorld: Various tweaks to make the world more hostile. See
+ https://github.com/Bengsch85/TheOminousDark/commit/ac10cd1ee0eb20e8d834e72672c6a10a121400b0 to see exact changes made.
+Tweak: RunicDungeons: Removed flight in the dimension.
+Tweak: RunicDungeons: Set the mode from normal to hard.
+Tweak: MFR: Disabled conveyor belts from grabbing players.
+Tweak: MFR: Increased the cost of chunkloader RF per tick.
+Tweak: MFR: Increased the cost of all other machines to run per tick.
+Tweak: MFR: Disabled the spawner.
+Tweak: MFR: Made safari nets more expensive.
+Tweak: MFR: Pink slimeballs only drop from larger pink slimes now.
+Tweak: LatMod: Removed the updater check.
+Tweak: IguanaTweaks: Removed all integration to Railcraft, BoP, IC2, and Steamcraft.
+Tweak: IguanaTweaks: Added an additional level modifier and random modifier at level 40.
+Tweak: IguanaTweaks: SilkyJewels now require an emerald block.
+Tweak: IguanaTweaks: Tools no longer last forever. You can repair them up to 15 times.
+Tweak: EnderIO: Dark Steel Sword attacks cost more power.
+Tweak: EnderIO: Disabled the spawner.
+Tweak: EnderIO: Travel Staff disabled.
+Tweak: Jabba: Diamond Dolly disabled.
+Tweak: Erebus: Fixed a conflict with biomes in buildcraft.
+Tweak: RFTools: Reduced the chance to find dimlets in chests.
+Tweak: RFTools: Dimensions cost more RF to create and maintain.
+Tweak: RFTools: Spawners are now much more expensive to make.
+Tweak: RFTools: Rewrote the recipes for the dimension modules.
+Tweak: EpicSiegeMod: Removed chests from the griefable list for mobs.
+Tweak: EpicSiegeMod: Bloodmoons are back.
+Tweak: Ruins: Removed strange nether formations and added a ton of new ones for both the nether and overworld.
+Tweak: Thaumcraft: Added a ton of aspects for Mekanism, QCRaft, Botania, Chisel. More to come.
+Tweak: BiblioCraft: Tools can now be put on toolracks.
+Tweak: HarvestCraft: You can make a maple sapling by using a natura maple sapling in a crafting table.
+Tweak: HungerOverhaul: You can plant seeds and food instead of just seeds.
+Tweak: HungerOverhaul: Tooltip for reeds to show the best biome to grow them in added.
+Tweak: HungerOverhaul: Removed the food stacking to make foods stack normally.
+Tweak: Rotarycrat: Bedrock tools can no longer harvest spawners.
+Tweak: RotaryCraft: RotaryCraft steel can be used by other mods.
+Tweak: RotaryCraft: TNT Cannon is disabled.
+Tweak: RotaryCraft: The Borere now require maintance.
+Tweak: RotaryCraft: Extractor Drills will now wear out.
+Tweak: RotaryCraft Jetpacks now require fuel.
+Tweak: RotaryCraft: Machine volume lowered by half.
+
+
+
 6/20:
 
 Tweak: Hunger Overhaul: Makes HarvestCraft foods unplantable, meaning seeds are required to plant crops [vanilla: false] [default: true]
