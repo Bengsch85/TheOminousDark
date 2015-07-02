@@ -96,7 +96,7 @@ Tweak: HarvestCraft: You can make a maple sapling by using a natura maple saplin
 Tweak: HungerOverhaul: You can plant seeds and food instead of just seeds.
 Tweak: HungerOverhaul: Tooltip for reeds to show the best biome to grow them in added.
 Tweak: HungerOverhaul: Removed the food stacking to make foods stack normally.
-Tweak: Rotarycrat: Bedrock tools can no longer harvest spawners.
+Tweak: Rotarycraft: Bedrock tools can no longer harvest spawners.
 Tweak: RotaryCraft: RotaryCraft steel can be used by other mods.
 Tweak: RotaryCraft: TNT Cannon is disabled.
 Tweak: RotaryCraft: The Borere now require maintance.
