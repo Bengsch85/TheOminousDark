@@ -21,6 +21,9 @@
     },
     "Natura TE4 Compatibility": {
       "enabled": true
+    },
+    "Natura Waila Compatibility": {
+      "enabled": true
     }
   }
 }
