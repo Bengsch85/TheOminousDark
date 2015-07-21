@@ -1,0 +1,192 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "textures:menu/rebornsplash.png",
+            "posX" : 280,
+            "posY" : -60,
+            "width" : 512,
+            "height" : 79,
+            "alignment" : "left_center"
+        },
+       
+        "black":
+        {
+            "image" : "textures:menu/blacktransparent.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 110,
+            "height" : 2000,
+            "alignment" : "top_left"
+        }
+    },
+   
+    "buttons":
+    {
+	    "singleplayer":
+		{
+            "text":"menu.singleplayer",
+            "posX": 55,
+            "posY":-146,
+            "width":100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",
+            "alignment":"left_center",
+			"action" :
+			{
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }	
+        },
+      
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 55,
+            "posY" : -106,
+            "width" : 100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }			
+		},
+       
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 55,
+            "posY" : -66,
+            "width" : 90,
+            "width" : 100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",			
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }			
+        },
+           
+        "options":
+        {
+            "text" : "Options",
+            "posX" : 55,
+            "posY" : -26,
+            "width" : 90,
+            "width" : 100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",			
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }			
+        },
+  
+		"wwwsite":
+        {
+            "text" : "WWW Site",
+            "posX" : 55,
+            "posY" : 16,
+            "width" : 90,
+            "width" : 100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",			
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "http://soulfly87.wix.com/theominousdark"
+            }			
+        },
+  
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 55,
+            "posY" : 56,
+            "width" : 90,
+            "width" : 100,
+            "height":30,
+            "imageWidth":100,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "hoverTextColor":7372944,
+            "texture":"textures:menu/button.png",			
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }			
+        }
+    },
+   
+    "texts":
+    {
+         "pack":
+        {
+	     	"text" : ["Kill... Eat... Exploit the weak...","Sail with me into the dark.","And this hell is where I'll stay.","Maybe I should cry for help.","Darkness... Imprisioning me."],
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "version":
+        {
+	     	"text" : "v2.0.3",
+            "posX" : 1,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		
+        "thorin":
+        {
+	     	"text" : "Music by Thorinair",
+            "posX" : 190,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+		
+		
+    },
+   
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "textures:menu/panorama%c.png",
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
