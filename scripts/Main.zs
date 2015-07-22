@@ -98,3 +98,9 @@ recipes.addShaped(<Natura:trapdoor.redwood> * 2, [[<Natura:planks:3>, <Natura:pl
 recipes.addShaped(<Natura:trapdoor.ghostwood> * 2, [[<Natura:planks:2>, <Natura:planks:2>, <Natura:planks:2>], [<Natura:planks:2>, <Natura:planks:2>, <Natura:planks:2>], [null, <Natura:planks:2>, null]]);
 recipes.addShaped(<Natura:trapdoor.ghostwood> * 2, [[<Natura:planks:2>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [null, <ore:plankWood>, null]]);
 recipes.addShaped(<Natura:trapdoor.sakura> * 2, [[<Natura:planks:1>, <Natura:planks:1>, <Natura:planks:1>], [<Natura:planks:1>, <Natura:planks:1>, <Natura:planks:1>], [null, <Natura:planks:1>, null]]);
+
+#Vanilla Sign Fix for Recipes
+val plank = <ore:plankWood>;
+val stick = <ore:stickWood>;
+recipes.addShaped(<minecraft:sign>, [[plank, stick, plank], [plank, stick, plank], [null, stick, null]]);
+
