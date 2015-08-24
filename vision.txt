@@ -1,0 +1,36 @@
+Vision For 2.05 ToD:
+---------------------
+
+Add The Following Mods:
+Ars Magica2
+Artifice
+Grue
+Et Futurum
+Foundry
+Storage Silos
+ComputerCraft
+Dimensional Anchors
+World Border
+Custom Oregen
+
+Remove The Following Mods:
+Simply Jetpacks
+RotaryCraft
+RFTools
+OreberryBushes
+Draconic Evolution
+Metallurgy
+QCraft
+
+
+Remove the following Mod Specific Items:
+All flying capacities.
+All player built mob spawning abilities.
+All free/cheap RF (Mekanism).
+All mass mining abilities EXCEPT computer items such as turtles.
+All cheap chunkloaders.
+Make Ore more scarce but in larger veins.
+
+I want the world where you have to explore by foot, not fly around and miss everything. I want a world where you have to work for 
+what you want, not set up machines to dig or kill for you. Resources should be harder to get, and payoffs should be more worthwhile.
+Darkness should be feared not just something to light up.
